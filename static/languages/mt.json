@@ -1,13 +1,13 @@
 {
-  "heading": "Ir-riċiklaġġ tal-iskart fil-pajjiżi tal-UE",
-  "subheading": "Skart totali riċiklat kull sena mill-pajjiżi tal-Unjoni Ewropea f'tunnellati metriċi.",
-  "legend1": "Ebda data disponibbli",
+  "heading": "Riċiklaġġ tal-iskart madwar il-pajjiżi tal-UE",
+  "subheading": "Skart totali riċiklat kull sena minn pajjiżi tal-Unjoni Ewropea f'tunnellati metriċi.",
+  "legend1": "L-ebda dejta disponibbli",
   "tooltip1": "tal-iskart kollu",
   "textSourceDescription": "Sors",
-  "textSource": "Eurostat",
+  "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "",
-  "textDataAccess": "Aċċessa għad-data",
+  "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
-  "textCountryClick": "Ikklikkja għal aktar informazzjoni"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

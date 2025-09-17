@@ -1,13 +1,13 @@
 {
   "heading": "Recykling odpadów w krajach UE",
-  "subheading": "Całkowita liczba odpadów poddawanych recyklingowi rocznie według krajów Unii Europejskiej w tonach metrycznych.",
+  "subheading": "Łączna ilość odpadów poddawanych corocznie recyklingowi w krajach Unii Europejskiej w tonach metrycznych.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "wszystkich odpadów",
   "textSourceDescription": "Źródło",
-  "textSource": "Eurostatu",
+  "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
   "textNote": "",
-  "textDataAccess": "Uzyskaj dostęp do danych",
+  "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

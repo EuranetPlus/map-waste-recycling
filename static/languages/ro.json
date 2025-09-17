@@ -1,13 +1,13 @@
 {
   "heading": "Reciclarea deșeurilor în țările UE",
-  "subheading": "Total deșeuri reciclate anual de țările Uniunii Europene în tone metrice.",
-  "legend1": "Nici o informatie disponibila",
-  "tooltip1": "dintre toate deșeurile",
+  "subheading": "Total deșeuri reciclate anual de către țările Uniunii Europene, în tone metrice.",
+  "legend1": "Nu sunt disponibile date",
+  "tooltip1": "a tuturor deșeurilor",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
-  "textNoteDescription": "Notă",
+  "textNoteDescription": "Nota",
   "textNote": "",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
-  "textCountryClick": "Click pentru mai multe informații"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=ro",
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

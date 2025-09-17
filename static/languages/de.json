@@ -1,13 +1,13 @@
 {
-  "heading": "Abfallrecycling in EU-Ländern",
-  "subheading": "Jährlich recycelter Gesamtabfall nach Ländern der Europäischen Union in Tonnen.",
+  "heading": "Abfallrecycling in den EU-Ländern",
+  "subheading": "Jährlich von den Ländern der Europäischen Union recycelter Gesamtabfall in Tonnen.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "aller Abfälle",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
   "textNote": "",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

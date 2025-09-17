@@ -1,13 +1,13 @@
 {
-  "heading": "Avfallsåtervinning i EU-länder",
-  "subheading": "Totalt avfall som återvinns årligen av länder i Europeiska unionen i ton.",
-  "legend1": "Ingen data tillgänglig",
+  "heading": "Avfallsåtervinning i EU-länderna",
+  "subheading": "Total mängd avfall som återvinns årligen av länder i Europeiska unionen i ton.",
+  "legend1": "Inga data tillgängliga",
   "tooltip1": "av allt avfall",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
   "textNote": "",
-  "textDataAccess": "Få åtkomst till data",
+  "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
-  "textCountryClick": "Klicka för mer info"
+  "textCountryClick": "Klicka för mer information"
 }

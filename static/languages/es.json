@@ -1,13 +1,13 @@
 {
   "heading": "Reciclaje de residuos en los países de la UE",
-  "subheading": "Residuos totales reciclados anualmente por países de la Unión Europea en toneladas métricas.",
-  "legend1": "Datos no disponibles",
+  "subheading": "Total de residuos reciclados anualmente por países de la Unión Europea en toneladas métricas.",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "de todos los residuos",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
   "textNote": "",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
-  "textCountryClick": "Haga clic para obtener más información"
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=es",
+  "textCountryClick": "Haga clic para más información"
 }

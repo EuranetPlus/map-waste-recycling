@@ -1,13 +1,13 @@
 {
-  "heading": "Recikliranje otpada u zemljama EU",
-  "subheading": "Ukupni otpad recikliran godišnje po zemljama Europske unije u metričkim tonama.",
+  "heading": "Recikliranje otpada u zemljama EU-a",
+  "subheading": "Ukupna količina otpada koji se godišnje reciklira u zemljama Europske unije u metričkim tonama.",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "sveg otpada",
+  "tooltip1": "sav otpad",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
   "textNote": "",
-  "textDataAccess": "Pristupite podacima",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"
 }

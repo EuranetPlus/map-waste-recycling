@@ -1,13 +1,13 @@
 {
-  "heading": "Recyklace odpadu napříč zeměmi EU",
-  "subheading": "Celkový odpad ročně recyklovaný zeměmi Evropské unie v metrických tunách.",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "heading": "Recyklace odpadu v zemích EU",
+  "subheading": "Celkové množství odpadu recyklovaného ročně v zemích Evropské unie v metrických tunách.",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": "veškerého odpadu",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
   "textNote": "",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=cs",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Klikněte pro více informací"
 }

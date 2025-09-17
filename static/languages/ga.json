@@ -1,13 +1,13 @@
 {
   "heading": "Athchúrsáil dramhaíola ar fud thíortha an AE",
-  "subheading": "Dramhaíl iomlán a athchúrsáiltear go bliantúil ag tíortha an Aontais Eorpaigh i tonna méadrach.",
+  "subheading": "Iomlán na dramhaíola a athchúrsáiltear go bliantúil ag tíortha an Aontais Eorpaigh i dtonna méadracha.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "de gach dramhaíl",
+  "tooltip1": "den dramhaíl go léir",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
   "textNote": "",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=ga",
+  "textDataAccess": "Rochtain ar na sonraí",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

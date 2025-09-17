@@ -1,6 +1,6 @@
 {
-  "heading": "Afvalrecycling in alle EU-landen",
-  "subheading": "Totaal afval dat jaarlijks wordt gerecycled door landen van de Europese Unie in metrische ton.",
+  "heading": "Afvalrecycling in EU-landen",
+  "subheading": "Totaal afval dat jaarlijks door landen van de Europese Unie wordt gerecycled, in metrische ton.",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van al het afval",
   "textSourceDescription": "Bron",
@@ -9,5 +9,5 @@
   "textNote": "",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

@@ -1,6 +1,6 @@
 {
   "heading": "Recyklácia odpadu v krajinách EÚ",
-  "subheading": "Celkový odpad ročne recyklovaný krajinami Európskej únie v metrických tonách.",
+  "subheading": "Celkové množstvo odpadu recyklovaného ročne v krajinách Európskej únie v metrických tonách.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "všetkého odpadu",
   "textSourceDescription": "Zdroj",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Poznámka",
   "textNote": "",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=sk",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Kliknite pre viac informácií"
 }

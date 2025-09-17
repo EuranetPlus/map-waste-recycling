@@ -1,13 +1,13 @@
 {
-  "heading": "Genbrug af affald på tværs af EU-lande",
-  "subheading": "Samlet affald, der genanvendes årligt af lande i Den Europæiske Union i ton.",
-  "legend1": "Ingen tilgængelig data",
+  "heading": "Genbrug af affald i EU-landene",
+  "subheading": "Samlet mængde affald, der genbruges årligt af lande i Den Europæiske Union, i tons.",
+  "legend1": "Ingen data tilgængelige",
   "tooltip1": "af alt affald",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
-  "textNoteDescription": "Bemærk",
+  "textNoteDescription": "Note",
   "textNote": "",
   "textDataAccess": "Få adgang til dataene",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=da",
-  "textCountryClick": "Klik for mere info"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "textCountryClick": "Klik for mere information"
 }

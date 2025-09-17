@@ -1,13 +1,13 @@
 {
-  "heading": "Hulladék-újrahasznosítás az EU országaiban",
-  "subheading": "Az Európai Unió országaiban évente újrahasznosított összes hulladék metrikus tonnában.",
-  "legend1": "Nincs elérhető adat",
-  "tooltip1": "minden hulladékból",
+  "heading": "Hulladék-újrahasznosítás az EU-országokban",
+  "subheading": "Az Európai Unió országai által évente újrahasznosított hulladék teljes mennyisége tonnában.",
+  "legend1": "Nincsenek elérhető adatok",
+  "tooltip1": "az összes hulladékból",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
+  "textNoteDescription": "Jegyzet",
   "textNote": "",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

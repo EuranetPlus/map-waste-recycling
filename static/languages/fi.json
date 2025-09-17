@@ -1,13 +1,13 @@
 {
   "heading": "Jätteiden kierrätys EU-maissa",
-  "subheading": "Vuosittain kierrätettävät jätteet Euroopan unionin maittain tonneina.",
-  "legend1": "Tietoja ei ole saatavilla",
+  "subheading": "Euroopan unionin maiden vuosittain kierrättämän jätteen kokonaismäärä tonneina.",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "kaikesta jätteestä",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
   "textNote": "",
   "textDataAccess": "Käytä tietoja",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=fi",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

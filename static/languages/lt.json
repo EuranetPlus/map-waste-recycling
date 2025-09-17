@@ -1,13 +1,13 @@
 {
   "heading": "Atliekų perdirbimas ES šalyse",
-  "subheading": "Bendras kasmet perdirbamų atliekų kiekis pagal Europos Sąjungos šalis metrinėmis tonomis.",
+  "subheading": "Bendras per metus perdirbamų atliekų kiekis pagal Europos Sąjungos šalis metrinėmis tonomis.",
   "legend1": "Nėra duomenų",
   "tooltip1": "visų atliekų",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
   "textNote": "",
-  "textDataAccess": "Pasiekite duomenis",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

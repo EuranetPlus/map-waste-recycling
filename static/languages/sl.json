@@ -1,13 +1,13 @@
 {
-  "heading": "Recikliranje odpadkov po državah EU",
-  "subheading": "Skupni odpadki, ki jih letno reciklirajo države Evropske unije v metričnih tonah.",
-  "legend1": "Ni podatkov",
+  "heading": "Recikliranje odpadkov v državah EU",
+  "subheading": "Skupna količina odpadkov, ki jih letno reciklirajo države Evropske unije v metričnih tonah.",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "vseh odpadkov",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
   "textNote": "",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"
 }

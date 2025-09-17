@@ -1,7 +1,7 @@
 {
   "heading": "Atkritumu pārstrāde visās ES valstīs",
   "subheading": "Kopējais ik gadu pārstrādāto atkritumu daudzums pa Eiropas Savienības valstīm metriskajās tonnās.",
-  "legend1": "Nav pieejami dati",
+  "legend1": "Dati nav pieejami",
   "tooltip1": "no visiem atkritumiem",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
@@ -9,5 +9,5 @@
   "textNote": "",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }
