@@ -2,7 +2,7 @@
   "heading": "How much waste are we generating?",
   "subheading": "Total waste recycled in 2020 by countries of the European Union, measured in metric tons.",
   "legend1": "No data available",
-  "tooltip1": "recycled",
+  "tooltip1": " metric tons recycled",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
