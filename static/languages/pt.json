@@ -1,12 +1,12 @@
 {
   "heading": "Quanto lixo estamos gerando?",
-  "subheading": "Total de resíduos reciclados em 202 pelos países da União Europeia, medido em toneladas métricas.",
-  "legend1": "Nenhum dado disponível",
-  "tooltip1": "de todos os resíduos",
+  "subheading": "Total de resíduos reciclados em 2020 pelos países da União Europeia, medido em toneladas métricas.",
+  "legend1": "Não há dados disponíveis.",
+  "tooltip1": "reciclado",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "",
+  "textNote": "Este mapa visualiza a quantidade reciclada de resíduos não perigosos e perigosos em toneladas métricas.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"

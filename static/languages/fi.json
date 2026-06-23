@@ -1,12 +1,12 @@
 {
   "heading": "Kuinka paljon jätettä tuotamme?",
-  "subheading": "Euroopan unionin maissa vuonna 202 kierrätettyjen jätteiden kokonaismäärä tonneina mitattuna.",
+  "subheading": "Euroopan unionin maiden kierrättämän jätteen kokonaismäärä vuonna 2020 tonneina mitattuna.",
   "legend1": "Ei tietoja saatavilla",
-  "tooltip1": "kaikesta jätteestä",
+  "tooltip1": "kierrätetty",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
-  "textNote": "",
+  "textNote": "Tämä kartta visualisoi kierrätetyn vaarattoman ja vaarallisen jätteen määrän tonneina.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Klikkaa saadaksesi lisätietoja"

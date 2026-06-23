@@ -1,12 +1,12 @@
 {
   "heading": "Hur mycket avfall genererar vi?",
-  "subheading": "Total mängd avfall som återvanns år 202 av länder i Europeiska unionen, mätt i ton.",
+  "subheading": "Total mängd avfall som återvanns år 2020 per land i Europeiska unionen, mätt i ton.",
   "legend1": "Inga data tillgängliga",
-  "tooltip1": "av allt avfall",
+  "tooltip1": "återvunnet",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "",
+  "textNote": "Denna karta visualiserar den återvunna mängden ofarligt och farligt avfall i ton.",
   "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Klicka för mer information"

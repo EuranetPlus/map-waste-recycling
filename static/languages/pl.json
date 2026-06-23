@@ -1,12 +1,12 @@
 {
   "heading": "Ile odpadów wytwarzamy?",
-  "subheading": "Łączna ilość odpadów poddanych recyklingowi w 202 krajach Unii Europejskiej, mierzona w tonach metrycznych.",
+  "subheading": "Łączna ilość odpadów poddanych recyklingowi w 2020 r. w krajach Unii Europejskiej, mierzona w tonach metrycznych.",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "wszystkich odpadów",
+  "tooltip1": "poddany recyklingowi",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "",
+  "textNote": "Mapa przedstawia ilość poddanych recyklingowi odpadów niebezpiecznych i niebezpieczych w tonach.",
   "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"

@@ -1,13 +1,13 @@
 {
   "heading": "¿Cuántos residuos estamos generando?",
-  "subheading": "Total de residuos reciclados en 202 países de la Unión Europea, medidos en toneladas métricas.",
+  "subheading": "Volumen total de residuos reciclados en 2020 por los países de la Unión Europea, medido en toneladas métricas.",
   "legend1": "No hay datos disponibles",
-  "tooltip1": "de todos los residuos",
+  "tooltip1": "reciclado",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "Este mapa muestra la cantidad reciclada de residuos no peligrosos y peligrosos en toneladas métricas.",
   "textDataAccess": "Acceder a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=es",
-  "textCountryClick": "Haga clic para más información"
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "textCountryClick": "Haz clic para obtener más información."
 }

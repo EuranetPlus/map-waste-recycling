@@ -1,12 +1,12 @@
 {
   "heading": "Cé mhéad dramhaíola atá á ghiniúint againn?",
-  "subheading": "Iomlán na dramhaíola a athchúrsáladh i 202 ag tíortha an Aontais Eorpaigh, tomhaiste i dtona méadrach.",
+  "subheading": "Iomlán na dramhaíola a athchúrsáladh in 2020 de réir thíortha an Aontais Eorpaigh, tomhaiste i dtonna méadracha.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "den dramhaíl go léir",
+  "tooltip1": "athchúrsáilte",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "",
+  "textNote": "Léiríonn an léarscáil seo méid athchúrsáilte na dramhaíola guaisí agus neamhghuaisí i dtonna méadracha.",
   "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"

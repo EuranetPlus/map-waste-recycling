@@ -1,13 +1,13 @@
 {
-  "heading": "Quanti rifiuti stiamo producendo?",
-  "subheading": "Totale dei rifiuti riciclati nel 2020 dai paesi dell'Unione Europea, misurati in tonnellate metriche.",
+  "heading": "Quanti rifiuti produciamo?",
+  "subheading": "Quantità totale di rifiuti riciclati nel 2020 dai paesi dell'Unione Europea, misurata in tonnellate metriche.",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "di tutti i rifiuti",
+  "tooltip1": "riciclato",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "",
-  "textDataAccess": "Accedi ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=it",
+  "textNote": "Questa mappa visualizza la quantità di rifiuti non pericolosi e pericolosi riciclati in tonnellate metriche.",
+  "textDataAccess": "Accedere ai dati",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

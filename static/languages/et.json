@@ -1,12 +1,12 @@
 {
   "heading": "Kui palju jäätmeid me tekitame?",
-  "subheading": "Euroopa Liidu riikide poolt 202. aastal ringlussevõetud jäätmete kogumaht, mõõdetuna tonnides.",
+  "subheading": "Euroopa Liidu riikide poolt 2020. aastal ringlussevõetud jäätmete kogumaht, mõõdetuna tonnides.",
   "legend1": "Andmed pole saadaval",
-  "tooltip1": "kõigist jäätmetest",
+  "tooltip1": "taaskasutatud",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märkus",
-  "textNote": "",
+  "textNote": "See kaart visualiseerib tava- ja ohtlike jäätmete ringlussevõetud koguse tonnides.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

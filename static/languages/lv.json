@@ -1,12 +1,12 @@
 {
   "heading": "Cik daudz atkritumu mēs radām?",
-  "subheading": "Kopējais pārstrādāto atkritumu daudzums 202. gadā pa Eiropas Savienības valstīm, mērīts metriskajās tonnās.",
+  "subheading": "Kopējais pārstrādāto atkritumu apjoms 2020. gadā pa Eiropas Savienības valstīm, mērīts metriskajās tonnās.",
   "legend1": "Dati nav pieejami",
-  "tooltip1": "no visiem atkritumiem",
+  "tooltip1": "pārstrādāts",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "",
+  "textNote": "Šajā kartē ir attēlots pārstrādāto nebīstamo un bīstamo atkritumu daudzums metriskajās tonnās.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"

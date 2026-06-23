@@ -1,12 +1,12 @@
 {
   "heading": "Hvor meget affald genererer vi?",
-  "subheading": "Samlet mængde affald genanvendt i 202 af lande i Den Europæiske Union, målt i tons.",
+  "subheading": "Samlet mængde genbrugt affald i 2020 fordelt på lande i Den Europæiske Union, målt i tons.",
   "legend1": "Ingen data tilgængelige",
-  "tooltip1": "af alt affald",
+  "tooltip1": "genbrugt",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "",
+  "textNote": "Dette kort visualiserer den genbrugte mængde af ikke-farligt og farligt affald i tons.",
   "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Klik for mere information"

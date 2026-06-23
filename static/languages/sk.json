@@ -1,12 +1,12 @@
 {
   "heading": "Koľko odpadu produkujeme?",
-  "subheading": "Celkový objem recyklovaného odpadu v roku 202 v krajinách Európskej únie, meraný v metrických tonách.",
+  "subheading": "Celkový objem recyklovaného odpadu v roku 2020 v krajinách Európskej únie, meraný v metrických tonách.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
-  "tooltip1": "všetkého odpadu",
+  "tooltip1": "recyklovaný",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "",
+  "textNote": "Táto mapa zobrazuje recyklované množstvo nebezpečného a nie nebezpečného odpadu v metrických tonách.",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Kliknite pre viac informácií"

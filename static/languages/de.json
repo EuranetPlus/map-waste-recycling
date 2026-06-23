@@ -1,13 +1,13 @@
 {
   "heading": "Wie viel Abfall produzieren wir?",
-  "subheading": "Gesamtabfall, der im Jahr 2020 von den Ländern der Europäischen Union recycelt wurde, gemessen in Tonnen.",
+  "subheading": "Gesamtmenge der im Jahr 2020 von den Ländern der Europäischen Union recycelten Abfälle, gemessen in Tonnen.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "aller Abfälle",
+  "tooltip1": "recycelt",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "",
-  "textDataAccess": "Zugriff auf die Daten",
+  "textNote": "Diese Karte veranschaulicht die Menge an recyceltem nicht gefährlichem und gefährlichem Abfall in Tonnen.",
+  "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }

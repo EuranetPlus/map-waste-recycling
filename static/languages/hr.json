@@ -1,12 +1,12 @@
 {
   "heading": "Koliko otpada stvaramo?",
-  "subheading": "Ukupna količina recikliranog otpada u 202. godini u zemljama Europske unije, mjereno u metričkim tonama.",
+  "subheading": "Ukupna količina recikliranog otpada u 2020. godini po zemljama Europske unije, mjereno u metričkim tonama.",
   "legend1": "Nema dostupnih podataka",
-  "tooltip1": "sav otpad",
+  "tooltip1": "reciklirano",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "",
+  "textNote": "Ova karta vizualizira količinu recikliranog neopasnog i opasnog otpada u metričkim tonama.",
   "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"

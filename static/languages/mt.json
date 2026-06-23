@@ -1,12 +1,12 @@
 {
   "heading": "Kemm skart qed niġġeneraw?",
-  "subheading": "Skart totali riċiklat fl-202 minn pajjiżi tal-Unjoni Ewropea, imkejjel f'tunnellati metriċi.",
+  "subheading": "Skart totali riċiklat fl-2020 minn pajjiżi tal-Unjoni Ewropea, imkejjel f'tunnellati metriċi.",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltip1": "tal-iskart kollu",
+  "tooltip1": "riċiklat",
   "textSourceDescription": "Sors",
   "textSource": "L-Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "Din il-mappa turi l-ammont riċiklat ta' skart mhux perikoluż u perikoluż f'tunnellati metriċi.",
   "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Ikklikkja għal aktar tagħrif"

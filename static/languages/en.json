@@ -1,12 +1,12 @@
 {
   "heading": "How much waste are we generating?",
-  "subheading": "Total waste recycled in 202 by countries of the European Union, measured in metric ton.",
+  "subheading": "Total waste recycled in 2020 by countries of the European Union, measured in metric tons.",
   "legend1": "No data available",
-  "tooltip1": "of all waste",
+  "tooltip1": "recycled",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "",
+  "textNote": "This map visualizes the recycled amount of non-hazardous and hazardous waste in metric tons.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Click for more info"
