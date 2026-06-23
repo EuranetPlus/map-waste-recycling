@@ -2,11 +2,11 @@
   "heading": "Mennyi hulladékot termelünk?",
   "subheading": "Az Európai Unió országai által 2020-ban újrahasznosított összes hulladék, tonnában mérve.",
   "legend1": "Nincsenek elérhető adatok",
-  "tooltip1": "újrahasznosított",
+  "tooltip1": "metrikus tonna újrahasznosított",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Ez a térkép a nem veszélyes és veszélyes hulladék újrahasznosított mennyiségét mutatja tonnában.",
+  "textNote": "Ez a térkép a nem veszélyes és veszélyes hulladék újrahasznosított mennyiségét mutatja metrikus tonnában.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Kattintson a további információkért"

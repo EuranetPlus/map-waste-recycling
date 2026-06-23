@@ -2,11 +2,11 @@
   "heading": "Hoeveel afval produceren we?",
   "subheading": "De totale hoeveelheid gerecycled afval in 2020 door landen van de Europese Unie, gemeten in metrische tonnen.",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltip1": "gerecycled",
+  "tooltip1": "metrische tonnen gerecycled",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "Deze kaart visualiseert de hoeveelheid gerecycled niet-gevaarlijk en gevaarlijk afval in metrische tonnen.",
+  "textNote": "Deze kaart visualiseert de hoeveelheid gerecycled niet-gevaarlijk en gevaarlijk afval in tonnen.",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
   "textCountryClick": "Klik hier voor meer informatie"
