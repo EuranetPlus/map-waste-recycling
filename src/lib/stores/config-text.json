@@ -1,13 +1,13 @@
 {
-  "heading": "How much waste are we generating?",
-  "subheading": "Total waste recycled in 2020 by countries of the European Union, measured in metric tons.",
+  "heading": "How much waste is recycled across Europe?",
+  "subheading": "In 2024, 1,827 kg of waste per person were recycled in the EU, up 0.9% from 1,811 kg in 2022. Estonia recorded the highest figure at 6,808 kg per capita, while Ireland had the lowest 2024 value at 393 kg.",
   "legend1": "No data available",
-  "tooltip1": " metric tons recycled",
+  "tooltip1": "kg per capita recycled",
   "textSourceDescription": "Source",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Note",
-  "textNote": "This map visualizes the recycled amount of non-hazardous and hazardous waste in metric tons.",
+  "textNote": "This map visualizes the recycled amount of non-hazardous and hazardous waste in kilograms per capita.",
   "textDataAccess": "Access the data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Click for more info"
 }
