@@ -1,13 +1,13 @@
 {
-  "heading": "Hoeveel afval produceren we?",
-  "subheading": "De totale hoeveelheid gerecycled afval in 2020 door landen van de Europese Unie, gemeten in metrische tonnen.",
+  "heading": "Hoeveel afval wordt er in Europa gerecycled?",
+  "subheading": "In 2024 werd in de EU 1.827 kg afval per persoon gerecycled, een stijging van 0,9% ten opzichte van 1.811 kg in 2022. Dit komt overeen met 37,5% van de totale hoeveelheid afval die in de EU werd geproduceerd. Estland registreerde het hoogste cijfer met 6.808 kg per hoofd van de bevolking, terwijl Ierland de laagste waarde had in 2024 met 393 kg.",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltip1": "metrische tonnen gerecycled",
+  "tooltip1": "kg per hoofd van de bevolking gerecycled",
   "textSourceDescription": "Bron",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Opmerking",
-  "textNote": "Deze kaart visualiseert de hoeveelheid gerecycled niet-gevaarlijk en gevaarlijk afval in tonnen.",
+  "textNote": "Deze kaart visualiseert de hoeveelheid gerecycled niet-gevaarlijk en gevaarlijk afval in kilogram per hoofd van de bevolking.",
   "textDataAccess": "Toegang tot de gegevens",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Klik hier voor meer informatie"
 }

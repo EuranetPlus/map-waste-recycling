@@ -1,13 +1,13 @@
 {
-  "heading": "Câte deșeuri generăm?",
-  "subheading": "Totalul deșeurilor reciclate în 2020 de către țările Uniunii Europene, măsurat în tone metrice.",
+  "heading": "Câte deșeuri sunt reciclate în Europa?",
+  "subheading": "În 2024, în UE s-au reciclat 1.827 kg de deșeuri pe cap de locuitor, în creștere cu 0,9% față de 1.811 kg în 2022. Aceasta reprezintă 37,5% din totalul deșeurilor generate în UE. Estonia a înregistrat cea mai mare cifră, de 6.808 kg pe cap de locuitor, în timp ce Irlanda a avut cea mai mică valoare în 2024, de 393 kg.",
   "legend1": "Nu sunt disponibile date",
-  "tooltip1": "tone metrice reciclate",
+  "tooltip1": "kg reciclați pe cap de locuitor",
   "textSourceDescription": "Sursă",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Nota",
-  "textNote": "Această hartă vizualizează cantitatea reciclată de deșeuri nepericuloase și periculoase în tone metrice.",
+  "textNote": "Această hartă vizualizează cantitatea reciclată de deșeuri nepericuloase și periculoase în kilograme pe cap de locuitor.",
   "textDataAccess": "Accesați datele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=ro",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Faceți clic pentru mai multe informații"
 }

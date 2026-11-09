@@ -1,13 +1,13 @@
 {
-  "heading": "Quelle quantité de déchets produisons-nous ?",
-  "subheading": "Quantité totale de déchets recyclés en 2020 par les pays de l'Union européenne, mesurée en tonnes métriques.",
+  "heading": "Quel est le volume de déchets recyclés en Europe ?",
+  "subheading": "En 2024, 1 827 kg de déchets par personne ont été recyclés dans l’UE, soit une hausse de 0,9 % par rapport aux 1 811 kg de 2022. Cela représente 37,5 % du total des déchets produits dans l’UE. L’Estonie a enregistré le chiffre le plus élevé avec 6 808 kg par habitant, tandis que l’Irlande a affiché le chiffre le plus bas en 2024, à 393 kg.",
   "legend1": "Aucune donnée disponible",
-  "tooltip1": "tonnes métriques recyclées",
+  "tooltip1": "kg par habitant recyclé",
   "textSourceDescription": "Source",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Note",
-  "textNote": "Cette carte visualise la quantité recyclée de déchets non dangereux et dangereux en tonnes métriques.",
+  "textNote": "Cette carte visualise la quantité recyclée de déchets non dangereux et dangereux en kilogrammes par habitant.",
   "textDataAccess": "Accéder aux données",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Cliquez pour plus d'informations"
 }

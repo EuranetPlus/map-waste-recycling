@@ -1,13 +1,13 @@
 {
-  "heading": "Koliko odpadkov ustvarimo?",
-  "subheading": "Skupna količina recikliranih odpadkov v letu 2020 po državah Evropske unije, merjeno v metričnih tonah.",
+  "heading": "Koliko odpadkov se reciklira po vsej Evropi?",
+  "subheading": "Leta 2024 je bilo v EU recikliranih 1.827 kg odpadkov na prebivalca, kar je 0,9 % več kot 1.811 kg leta 2022. To predstavlja 37,5 % vseh odpadkov, ustvarjenih v EU. Estonija je zabeležila najvišjo številko, 6.808 kg na prebivalca, Irska pa najnižjo vrednost, 393 kg.",
   "legend1": "Ni na voljo podatkov",
-  "tooltip1": "recikliranih metričnih ton",
+  "tooltip1": "kg recikliranega na prebivalca",
   "textSourceDescription": "Vir",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Opomba",
-  "textNote": "Ta zemljevid prikazuje količino recikliranih nenevarnih in nevarnih odpadkov v metričnih tonah.",
+  "textNote": "Ta zemljevid prikazuje količino recikliranih nenevarnih in nevarnih odpadkov v kilogramih na prebivalca.",
   "textDataAccess": "Dostop do podatkov",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Kliknite za več informacij"
 }

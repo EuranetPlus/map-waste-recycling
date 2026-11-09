@@ -1,13 +1,13 @@
 {
-  "heading": "Hvor meget affald genererer vi?",
-  "subheading": "Samlet mængde genbrugt affald i 2020 fordelt på lande i Den Europæiske Union, målt i tons.",
+  "heading": "Hvor meget affald genbruges i Europa?",
+  "subheading": "I 2024 blev der genbrugt 1.827 kg affald pr. person i EU, en stigning på 0,9 % fra 1.811 kg i 2022. Dette svarer til 37,5 % af det samlede affald, der blev genereret i EU. Estland registrerede det højeste tal med 6.808 kg pr. indbygger, mens Irland havde den laveste værdi i 2024 med 393 kg.",
   "legend1": "Ingen data tilgængelige",
-  "tooltip1": "genbrugte tons",
+  "tooltip1": "kg pr. indbygger genbruges",
   "textSourceDescription": "Kilde",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Note",
-  "textNote": "Dette kort visualiserer den genbrugte mængde af ikke-farligt og farligt affald i tons.",
+  "textNote": "Dette kort visualiserer den genbrugte mængde af ikke-farligt og farligt affald i kilogram pr. indbygger.",
   "textDataAccess": "Få adgang til dataene",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Klik for mere information"
 }

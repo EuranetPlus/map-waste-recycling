@@ -1,13 +1,13 @@
 {
-  "heading": "Kiek atliekų mes generuojame?",
-  "subheading": "Bendras 2020 m. perdirbtų atliekų kiekis pagal Europos Sąjungos šalis, matuojamas metrinėmis tonomis.",
+  "heading": "Kiek atliekų perdirbama visoje Europoje?",
+  "subheading": "2024 m. ES buvo perdirbta 1 827 kg atliekų vienam gyventojui, t. y. 0,9 % daugiau nei 1 811 kg 2022 m. Tai sudaro 37,5 % visų ES susidariusių atliekų. Estijoje užfiksuotas didžiausias rodiklis – 6 808 kg vienam gyventojui, o Airijoje – mažiausias 2024 m. rodiklis – 393 kg.",
   "legend1": "Nėra duomenų",
-  "tooltip1": "perdirbtų metrinių tonų",
+  "tooltip1": "kg vienam gyventojui perdirbta",
   "textSourceDescription": "Šaltinis",
-  "textSource": "Eurostatas",
+  "textSource": "Eurostatas (2026 m.)",
   "textNoteDescription": "Pastaba",
-  "textNote": "Šiame žemėlapyje vizualizuojamas perdirbtų nepavojingų ir pavojingų atliekų kiekis metrinėmis tonomis.",
+  "textNote": "Šiame žemėlapyje vizualizuojamas perdirbtų nepavojingų ir pavojingų atliekų kiekis kilogramais vienam gyventojui.",
   "textDataAccess": "Prieiga prie duomenų",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

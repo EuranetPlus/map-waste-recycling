@@ -1,13 +1,13 @@
 {
-  "heading": "Hur mycket avfall genererar vi?",
-  "subheading": "Total mängd avfall som återvanns år 2020 per land i Europeiska unionen, mätt i ton.",
+  "heading": "Hur mycket avfall återvinns i Europa?",
+  "subheading": "År 2024 återvanns 1 827 kg avfall per person i EU, en ökning med 0,9 % från 1 811 kg år 2022. Detta motsvarar 37,5 % av det totala avfallet som genererades i EU. Estland registrerade den högsta siffran med 6 808 kg per capita, medan Irland hade det lägsta värdet för 2024 med 393 kg.",
   "legend1": "Inga data tillgängliga",
-  "tooltip1": "återvunna ton",
+  "tooltip1": "kg per capita återvunnet",
   "textSourceDescription": "Källa",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Notera",
-  "textNote": "Denna karta visualiserar den återvunna mängden ofarligt och farligt avfall i ton.",
+  "textNote": "Denna karta visualiserar den återvunna mängden ofarligt och farligt avfall i kilogram per capita.",
   "textDataAccess": "Åtkomst till data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Klicka för mer information"
 }

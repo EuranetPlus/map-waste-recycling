@@ -1,13 +1,13 @@
 {
-  "heading": "Cik daudz atkritumu mēs radām?",
-  "subheading": "Kopējais pārstrādāto atkritumu apjoms 2020. gadā pa Eiropas Savienības valstīm, mērīts metriskajās tonnās.",
+  "heading": "Cik daudz atkritumu tiek pārstrādāts visā Eiropā?",
+  "subheading": "2024. gadā ES tika pārstrādāti 1827 kg atkritumu uz vienu iedzīvotāju, kas ir par 0,9 % vairāk nekā 1811 kg 2022. gadā. Tas veido 37,5 % no kopējā ES radītā atkritumu daudzuma. Igaunijā tika reģistrēts augstākais rādītājs – 6808 kg uz vienu iedzīvotāju, savukārt Īrijā 2024. gadā bija zemākais rādītājs – 393 kg.",
   "legend1": "Dati nav pieejami",
-  "tooltip1": "pārstrādātas metriskās tonnas",
+  "tooltip1": "kg uz vienu iedzīvotāju pārstrādāts",
   "textSourceDescription": "Avots",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Piezīme",
-  "textNote": "Šajā kartē ir attēlots pārstrādāto nebīstamo un bīstamo atkritumu daudzums metriskajās tonnās.",
+  "textNote": "Šajā kartē ir attēlots pārstrādāto nebīstamo un bīstamo atkritumu daudzums kilogramos uz vienu iedzīvotāju.",
   "textDataAccess": "Piekļūstiet datiem",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

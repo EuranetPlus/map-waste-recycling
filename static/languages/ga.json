@@ -1,13 +1,13 @@
 {
-  "heading": "Cé mhéad dramhaíola atá á ghiniúint againn?",
-  "subheading": "Iomlán na dramhaíola a athchúrsáladh in 2020 de réir thíortha an Aontais Eorpaigh, tomhaiste i dtonna méadracha.",
+  "heading": "Cé mhéad dramhaíola a athchúrsáiltear ar fud na hEorpa?",
+  "subheading": "In 2024, athchúrsáladh 1,827 kg dramhaíola in aghaidh an duine san AE, suas 0.9% ó 1,811 kg in 2022. Is ionann seo agus 37.5% den dramhaíl iomlán a gineadh san AE. Thaifead an Eastóin an figiúr is airde ag 6,808 kg in aghaidh an duine, agus bhí an luach is ísle in 2024 ag Éirinn ag 393 kg.",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "tonna méadracha athchúrsáilte",
+  "tooltip1": "kg in aghaidh an duine athchúrsáilte",
   "textSourceDescription": "Foinse",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Nóta",
-  "textNote": "Léiríonn an léarscáil seo méid athchúrsáilte na dramhaíola guaisí agus neamhghuaisí i dtonna méadracha.",
+  "textNote": "Léiríonn an léarscáil seo méid na dramhaíola guaisí agus neamhghuaisí atá inathchúrsáilte i gcileagraim in aghaidh an duine.",
   "textDataAccess": "Rochtain ar na sonraí",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

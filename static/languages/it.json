@@ -1,13 +1,13 @@
 {
-  "heading": "Quanti rifiuti produciamo?",
-  "subheading": "Quantità totale di rifiuti riciclati nel 2020 dai paesi dell'Unione Europea, misurata in tonnellate metriche.",
+  "heading": "Quanti rifiuti vengono riciclati in tutta Europa?",
+  "subheading": "Nel 2024, nell'UE sono stati riciclati 1.827 kg di rifiuti pro capite, con un aumento dello 0,9% rispetto ai 1.811 kg del 2022. Ciò equivale al 37,5% del totale dei rifiuti prodotti nell'UE. L'Estonia ha registrato il dato più alto con 6.808 kg pro capite, mentre l'Irlanda ha avuto il valore più basso nel 2024 con 393 kg.",
   "legend1": "Nessun dato disponibile",
-  "tooltip1": "tonnellate metriche riciclate",
+  "tooltip1": "kg pro capite riciclato",
   "textSourceDescription": "Fonte",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Nota",
-  "textNote": "Questa mappa visualizza la quantità di rifiuti non pericolosi e pericolosi riciclati in tonnellate metriche.",
+  "textNote": "Questa mappa visualizza la quantità di rifiuti non pericolosi e pericolosi riciclati in chilogrammi pro capite.",
   "textDataAccess": "Accedere ai dati",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Clicca per maggiori informazioni"
 }

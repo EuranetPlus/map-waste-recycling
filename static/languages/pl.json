@@ -1,13 +1,13 @@
 {
-  "heading": "Ile odpadów wytwarzamy?",
-  "subheading": "Łączna ilość odpadów poddanych recyklingowi w 2020 r. w krajach Unii Europejskiej, mierzona w tonach metrycznych.",
+  "heading": "Ile odpadów poddaje się recyklingowi w Europie?",
+  "subheading": "W 2024 roku w UE poddano recyklingowi 1827 kg odpadów na osobę, co stanowi wzrost o 0,9% w porównaniu z 1811 kg w 2022 roku. Stanowi to 37,5% całkowitej ilości odpadów wytworzonych w UE. Najwyższą wartość – 6808 kg na osobę – odnotowała Estonia, a najniższą Irlandia – 393 kg w 2024 roku.",
   "legend1": "Brak dostępnych danych",
-  "tooltip1": "ton metrycznych poddanych recyklingowi",
+  "tooltip1": "kg na osobę poddane recyklingowi",
   "textSourceDescription": "Źródło",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Notatka",
-  "textNote": "Mapa przedstawia ilość poddanych recyklingowi odpadów niebezpiecznych i niebezpieczych w tonach.",
+  "textNote": "Mapa przedstawia ilość poddanych recyklingowi odpadów niebezpiecznych i niebezpieczych w kilogramach na osobę.",
   "textDataAccess": "Dostęp do danych",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

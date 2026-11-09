@@ -1,13 +1,13 @@
 {
-  "heading": "Wie viel Abfall produzieren wir?",
-  "subheading": "Gesamtmenge der im Jahr 2020 von den Ländern der Europäischen Union recycelten Abfälle, gemessen in Tonnen.",
+  "heading": "Wie viel Abfall wird in Europa recycelt?",
+  "subheading": "Im Jahr 2024 wurden in der EU 1.827 kg Abfall pro Person recycelt, ein Anstieg um 0,9 % gegenüber 1.811 kg im Jahr 2022. Dies entspricht 37,5 % des gesamten in der EU anfallenden Abfalls. Estland verzeichnete mit 6.808 kg pro Kopf den höchsten Wert, während Irland mit 393 kg den niedrigsten Wert für 2024 aufwies.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "Tonnen recycelt",
+  "tooltip1": "kg pro Kopf recycelt",
   "textSourceDescription": "Quelle",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Notiz",
-  "textNote": "Diese Karte veranschaulicht die Menge an recyceltem nicht gefährlichem und gefährlichem Abfall in Tonnen.",
+  "textNote": "Diese Karte veranschaulicht die Menge an recyceltem, nicht gefährlichem und gefährlichem Abfall in Kilogramm pro Kopf.",
   "textDataAccess": "Greifen Sie auf die Daten zu.",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Klicken Sie hier für weitere Informationen."
 }

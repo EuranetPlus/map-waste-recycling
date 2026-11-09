@@ -1,13 +1,13 @@
 {
-  "heading": "Kemm skart qed niġġeneraw?",
-  "subheading": "Skart totali riċiklat fl-2020 minn pajjiżi tal-Unjoni Ewropea, imkejjel f'tunnellati metriċi.",
+  "heading": "Kemm skart jiġi riċiklat madwar l-Ewropa?",
+  "subheading": "Fl-2024, 1,827 kg ta’ skart għal kull persuna ġew riċiklati fl-UE, żieda ta’ 0.9% mill-1,811 kg fl-2022. Dan huwa ugwali għal 37.5% tal-iskart totali ġġenerat fl-UE. L-Estonja rreġistrat l-ogħla ċifra b’6,808 kg għal kull persuna, filwaqt li l-Irlanda kellha l-inqas valur fl-2024 b’393 kg.",
   "legend1": "L-ebda dejta disponibbli",
-  "tooltip1": "tunnellati metriċi riċiklati",
+  "tooltip1": "kg riċiklati għal kull persuna",
   "textSourceDescription": "Sors",
-  "textSource": "L-Eurostat",
+  "textSource": "L-Eurostat (2026)",
   "textNoteDescription": "Nota",
-  "textNote": "Din il-mappa turi l-ammont riċiklat ta' skart mhux perikoluż u perikoluż f'tunnellati metriċi.",
+  "textNote": "Din il-mappa turi l-ammont riċiklat ta' skart mhux perikoluż u perikoluż f'kilogrammi per capita.",
   "textDataAccess": "Aċċessa d-dejta",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

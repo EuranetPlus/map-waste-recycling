@@ -1,13 +1,13 @@
 {
-  "heading": "Mennyi hulladékot termelünk?",
-  "subheading": "Az Európai Unió országai által 2020-ban újrahasznosított összes hulladék, tonnában mérve.",
+  "heading": "Mennyi hulladékot hasznosítanak újra Európában?",
+  "subheading": "2024-ben az EU-ban fejenként 1827 kg hulladékot hasznosítottak újra, ami 0,9%-os növekedést jelent a 2022-es 1811 kg-hoz képest. Ez az EU-ban keletkezett teljes hulladék 37,5%-át teszi ki. Észtországban volt a legmagasabb az egy főre jutó érték, 6808 kg, míg Írországban volt a legalacsonyabb 2024-es érték, 393 kg.",
   "legend1": "Nincsenek elérhető adatok",
-  "tooltip1": "metrikus tonna újrahasznosított",
+  "tooltip1": "kg fejenként újrahasznosított",
   "textSourceDescription": "Forrás",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Ez a térkép a nem veszélyes és veszélyes hulladék újrahasznosított mennyiségét mutatja metrikus tonnában.",
+  "textNote": "Ez a térkép a nem veszélyes és veszélyes hulladék újrahasznosított mennyiségét szemlélteti kilogrammban fejenként.",
   "textDataAccess": "Hozzáférés az adatokhoz",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Kattintson a további információkért"
 }

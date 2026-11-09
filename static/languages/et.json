@@ -1,13 +1,13 @@
 {
-  "heading": "Kui palju jäätmeid me tekitame?",
-  "subheading": "Euroopa Liidu riikide poolt 2020. aastal ringlussevõetud jäätmete kogumaht, mõõdetuna tonnides.",
+  "heading": "Kui palju jäätmeid Euroopas taaskasutatakse?",
+  "subheading": "2024. aastal taaskasutati ELis 1827 kg jäätmeid inimese kohta, mis on 0,9% rohkem kui 2022. aasta 1811 kg. See moodustab 37,5% ELis tekitatud jäätmete koguhulgast. Eesti registreeris kõrgeima näitaja – 6808 kg inimese kohta, samas kui Iirimaal oli 2024. aasta madalaim väärtus – 393 kg.",
   "legend1": "Andmed pole saadaval",
-  "tooltip1": "tonnide kaupa taaskasutatud",
+  "tooltip1": "kg elaniku kohta taaskasutatud",
   "textSourceDescription": "Allikas",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Märkus",
-  "textNote": "See kaart visualiseerib tava- ja ohtlike jäätmete ringlussevõetud koguse tonnides.",
+  "textNote": "See kaart visualiseerib tava- ja ohtlike jäätmete ringlussevõetud koguse kilogrammides elaniku kohta.",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
 }

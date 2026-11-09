@@ -1,13 +1,13 @@
 {
-  "heading": "¿Cuántos residuos estamos generando?",
-  "subheading": "Volumen total de residuos reciclados en 2020 por los países de la Unión Europea, medido en toneladas métricas.",
+  "heading": "¿Cuántos residuos se reciclan en Europa?",
+  "subheading": "En 2024, se reciclaron 1.827 kg de residuos por persona en la UE, un 0,9 % más que los 1.811 kg de 2022. Esto equivale al 37,5 % del total de residuos generados en la UE. Estonia registró la cifra más alta, con 6.808 kg per cápita, mientras que Irlanda tuvo el valor más bajo en 2024, con 393 kg.",
   "legend1": "No hay datos disponibles",
-  "tooltip1": "toneladas métricas recicladas",
+  "tooltip1": "kg por persona reciclado",
   "textSourceDescription": "Fuente",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Nota",
-  "textNote": "Este mapa muestra la cantidad reciclada de residuos no peligrosos y peligrosos en toneladas métricas.",
+  "textNote": "Este mapa muestra la cantidad reciclada de residuos no peligrosos y peligrosos en kilogramos per cápita.",
   "textDataAccess": "Acceder a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Haz clic para obtener más información."
 }

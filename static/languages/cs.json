@@ -1,13 +1,13 @@
 {
-  "heading": "Kolik odpadu produkujeme?",
-  "subheading": "Celkový objem recyklovaného odpadu v roce 2020 v zemích Evropské unie, měřeno v metrických tunách.",
+  "heading": "Kolik odpadu se recykluje v celé Evropě?",
+  "subheading": "V roce 2024 bylo v EU recyklováno 1 827 kg odpadu na osobu, což je o 0,9 % více než 1 811 kg v roce 2022. To odpovídá 37,5 % celkového množství odpadu vyprodukovaného v EU. Estonsko zaznamenalo nejvyšší hodnotu s 6 808 kg na osobu, zatímco Irsko mělo v roce 2024 nejnižší hodnotu s 393 kg.",
   "legend1": "Nejsou k dispozici žádná data",
-  "tooltip1": "recyklovaných metrických tun",
+  "tooltip1": "kg recyklovaného materiálu na obyvatele",
   "textSourceDescription": "Zdroj",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Poznámka",
-  "textNote": "Tato mapa znázorňuje množství recyklovaného bezpečného a nebezpečného odpadu v metrických tunách.",
+  "textNote": "Tato mapa znázorňuje množství recyklovaného bezpečného a nebezpečného odpadu v kilogramech na obyvatele.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_5590289/default/table?lang=en",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ENV_WASTRT__custom_24224643/default/table",
   "textCountryClick": "Klikněte pro více informací"
 }
